@@ -2,6 +2,7 @@ Meme Merge 🎮
 
 A physics-based emoji merging game where simple drops turn into chaotic chain reactions.
 
+link https://ajayshanukp.github.io/meme-merge/
 ---
 
 Overview
