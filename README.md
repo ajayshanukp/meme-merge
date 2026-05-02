@@ -54,8 +54,7 @@ Tech Stack
 
 How to Run
 
-git clone https://github.com/ajayshanukp/meme-merge.git
-cd meme-merge
+git clone https://ajayshanukp.github.io/meme-merge/
 open meme_merge_2048.html
 
 Or simply open the ".html" file in your browser.
